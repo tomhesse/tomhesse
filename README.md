@@ -1,0 +1,5 @@
+- Hi, I'm Tom Hesse
+- I'm interested in Linux and Heavy Metal
+- I'm currently learning Python
+- I'm looking to collaborate on Open Source projects
+- The best way to reach me is by Email
